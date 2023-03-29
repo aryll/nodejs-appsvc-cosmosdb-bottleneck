@@ -11,7 +11,7 @@ pool:
 
 variables:
   webAppName: 'wdi2023'
-  serviceConnection: 'f66e037c-0221-48ad-83dd-8bb3624f72b6'
+  serviceConnection: 'Karpas-pay-as-you-go'
   azureSubscriptionId: 'f66e037c-0221-48ad-83dd-8bb3624f72b6'
   loadTestResource: 'wdi2023'
   loadTestResourceGroup: 'wdi2023eastus-rg'
